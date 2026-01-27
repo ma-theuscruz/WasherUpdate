@@ -1,12 +1,12 @@
 {
-  "version": "1.2.4",
-  "bin": "https://raw.githubusercontent.com/ma-theuscruz/WasherUpdate/main/washer1.2.4.bin",
-  "md5": "178ce8dc93e333b15eb0de54346cb952",
-  "released_at": "2026-01-26 18:30:00",
-  "size_bytes": 922029,
+  "version": "0.1.1",
+  "bin": "https://raw.githubusercontent.com/ma-theuscruz/WasherUpdate/main/washer0.1.1.bin",
+  "md5": "d1992eafe59d5101925e7b5598bd982c",
+  "released_at": "2026-01-27 19:00:00",
+  "size_bytes": 1074029,
   "notes": [
-    "Corrige bug da manutencao (reles).",
-    "Melhora estabilidade do Wi-Fi.",
-    "Ajustes na API e logs."
+    "Implementacao atualizacoes automaticas.",
+    "Ajustes na API e logs.",
+    "Ajuste de performance."
   ]
 }
