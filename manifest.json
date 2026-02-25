@@ -1,5 +1,5 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.0",
   "bin": "https://raw.githubusercontent.com/ma-theuscruz/WasherUpdate/main/washer0.1.1.bin",
   "md5": "d1992eafe59d5101925e7b5598bd982c",
   "released_at": "2026-01-27 19:00:00",
@@ -7,6 +7,6 @@
   "notes": [
     "Implementacao atualizacoes automaticas.",
     "Ajustes na API e logs.",
-    "Implementação atualizaçõe automáticas."
+    "NOTE3"
   ]
 }
