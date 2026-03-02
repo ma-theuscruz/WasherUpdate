@@ -1,13 +1,13 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "bin": "https://raw.githubusercontent.com/ma-theuscruz/WasherUpdate/main/washer0.1.1.bin",
-  "md5": "d1992eafe59d5101925e7b5598bd982c",
-  "released_at": "2026-01-27 19:00:00",
-  "size_bytes": 1074029,
+  "md5": "8d5ea9bbf43fca6b404c250bbfe5e96b",
+  "released_at": "2026-03-02 08:00:00",
+  "size_bytes": 1120592,
   "notes": [
-    "Implementacao atualizacoes automaticas.",
+    "Melhorias de Geolocalizacao.",
     "Ajustes na API e logs.",
-    "NOTE3"
+    "Apagar Logs implementados.",
   ]
 }
 
