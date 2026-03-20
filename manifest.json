@@ -1,13 +1,13 @@
 {
-  "version": "0.1.1",
-  "bin": "https://raw.githubusercontent.com/ma-theuscruz/WasherUpdate/main/washer0.1.1.bin",
-  "md5": "8d5ea9bbf43fca6b404c250bbfe5e96b",
-  "released_at": "2026-03-02 08:00:00",
-  "size_bytes": 1120592,
+  "version": "0.1.2",
+  "bin": "https://raw.githubusercontent.com/ma-theuscruz/WasherUpdate/main/washer0.1.2.bin",
+  "md5": "9895f2b695a75e30ee5f966e8a50ef22",
+  "released_at": "2026-03-20 08:07:00",
+  "size_bytes": 1126496,
   "notes": [
-    "Melhorias de Geolocalizacao.",
-    "Ajustes na API e logs.",
-    "Apagar Logs implementados.",
+    "Adicionado controle de Galoes.",
+    "Adicionado Token de Autenticacao.",
+    "Adicionado Reposicao de Galoes."
   ]
 }
 
