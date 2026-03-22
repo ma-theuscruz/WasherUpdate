@@ -1,17 +1,17 @@
 {
-  "system_version": "0.1.4",
-  "version": "0.1.2",
+  "system_version": "0.1.5",
+  "version": "0.1.3",
   "bin": "https://raw.githubusercontent.com/ma-theuscruz/WasherUpdate/main/firmware.bin",
-  "md5": "",
-  "size_bytes": 0,
+  "md5": "fe83a878517291ac8580f5f48552e641",
+  "size_bytes": 1131536,
   "released_at": "2026-03-22",
   "notes": [
-    "Atualização inicial completa do sistema",
-    "",
-    ""
+    "Adicionado update display remoto",
+    "Alterado sistema de versoes",
+    "Implementado tela de descanso",
   ],
   "display": {
-    "version": "0.1.4",
+    "version": "0.1.5",
     "files": [
       {
         "name": "13TouchFile.bin",
@@ -24,6 +24,12 @@
         "id": 14,
         "url": "https://raw.githubusercontent.com/ma-theuscruz/WasherUpdate/main/display/14ShowFile.bin",
         "size": 25600
+      },
+      {
+        "name": "63.bin",
+        "id": 63,
+        "url": "https://raw.githubusercontent.com/ma-theuscruz/WasherUpdate/main/display/63.bin",
+        "size": 183296
       }     
       
     ]
