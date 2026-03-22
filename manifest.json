@@ -1,8 +1,8 @@
 {
-  "system_version": "0.1.5",
-  "version": "0.1.3",
+  "system_version": "0.1.6",
+  "version": "0.1.4",
   "bin": "https://raw.githubusercontent.com/ma-theuscruz/WasherUpdate/main/firmware.bin",
-  "md5": "fe83a878517291ac8580f5f48552e641",
+  "md5": "c34c868b4432d773880716ed60461f98",
   "size_bytes": 1131536,
   "released_at": "2026-03-22",
   "notes": [
@@ -11,7 +11,7 @@
     "Implementado tela de descanso"
   ],
   "display": {
-    "version": "0.1.5",
+    "version": "0.1.6",
     "files": [
       {
         "name": "22_Config.bin",
@@ -32,11 +32,11 @@
         "size": 25600
       },
       {
-        "name": "63.bin",
-        "id": 63,
-        "url": "https://raw.githubusercontent.com/ma-theuscruz/WasherUpdate/main/display/63.bin",
-        "size": 183296
-      }     
+        "name": "25.icl",
+        "id": 25,
+        "url": "https://raw.githubusercontent.com/ma-theuscruz/WasherUpdate/main/display/25.icl",
+        "size": 100352
+      }
       
     ]
   }
