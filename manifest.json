@@ -1,14 +1,17 @@
 {
+  "system_version": "0.1.4",
   "version": "0.1.2",
   "bin": "https://raw.githubusercontent.com/ma-theuscruz/WasherUpdate/main/firmware.bin",
   "md5": "",
   "size_bytes": 0,
   "released_at": "2026-03-22",
   "notes": [
-    "Atualização inicial com todos os arquivos de display"
+    "Atualização inicial completa do sistema",
+    "",
+    ""
   ],
   "display": {
-    "version": "1.0.0",
+    "version": "0.1.4",
     "files": [
       {
         "name": "13TouchFile.bin",
@@ -21,157 +24,8 @@
         "id": 14,
         "url": "https://raw.githubusercontent.com/ma-theuscruz/WasherUpdate/main/display/14ShowFile.bin",
         "size": 25600
-      },
-      {
-        "name": "16.icl",
-        "id": 16,
-        "url": "https://raw.githubusercontent.com/ma-theuscruz/WasherUpdate/main/display/16.icl",
-        "size": 1019904
-      },
-      {
-        "name": "20.icl",
-        "id": 20,
-        "url": "https://raw.githubusercontent.com/ma-theuscruz/WasherUpdate/main/display/20.icl",
-        "size": 83968
-      },
-      {
-        "name": "21.icl",
-        "id": 21,
-        "url": "https://raw.githubusercontent.com/ma-theuscruz/WasherUpdate/main/display/21.icl",
-        "size": 84992
-      },
-      {
-        "name": "22_Config.bin",
-        "id": 22,
-        "url": "https://raw.githubusercontent.com/ma-theuscruz/WasherUpdate/main/display/22_Config.bin",
-        "size": 132096
-      },
-      {
-        "name": "23.icl",
-        "id": 23,
-        "url": "https://raw.githubusercontent.com/ma-theuscruz/WasherUpdate/main/display/23.icl",
-        "size": 82944
-      },
-      {
-        "name": "25.icl",
-        "id": 25,
-        "url": "https://raw.githubusercontent.com/ma-theuscruz/WasherUpdate/main/display/25.icl",
-        "size": 100352
-      },
-      {
-        "name": "26.bin",
-        "id": 26,
-        "url": "https://raw.githubusercontent.com/ma-theuscruz/WasherUpdate/main/display/26.bin",
-        "size": 36864
-      },
-      {
-        "name": "27.icl",
-        "id": 27,
-        "url": "https://raw.githubusercontent.com/ma-theuscruz/WasherUpdate/main/display/27.icl",
-        "size": 325632
-      },
-      {
-        "name": "32.icl",
-        "id": 32,
-        "url": "https://raw.githubusercontent.com/ma-theuscruz/WasherUpdate/main/display/32.icl",
-        "size": 2499584
-      },
-      {
-        "name": "41.bin",
-        "id": 41,
-        "url": "https://raw.githubusercontent.com/ma-theuscruz/WasherUpdate/main/display/41.bin",
-        "size": 99328
-      },
-      {
-        "name": "44.icl",
-        "id": 44,
-        "url": "https://raw.githubusercontent.com/ma-theuscruz/WasherUpdate/main/display/44.icl",
-        "size": 355328
-      },
-      {
-        "name": "46.icl",
-        "id": 46,
-        "url": "https://raw.githubusercontent.com/ma-theuscruz/WasherUpdate/main/display/46.icl",
-        "size": 171008
-      },
-      {
-        "name": "47.icl",
-        "id": 47,
-        "url": "https://raw.githubusercontent.com/ma-theuscruz/WasherUpdate/main/display/47.icl",
-        "size": 105472
-      },
-      {
-        "name": "48.icl",
-        "id": 48,
-        "url": "https://raw.githubusercontent.com/ma-theuscruz/WasherUpdate/main/display/48.icl",
-        "size": 124928
-      },
-      {
-        "name": "49.icl",
-        "id": 49,
-        "url": "https://raw.githubusercontent.com/ma-theuscruz/WasherUpdate/main/display/49.icl",
-        "size": 214016
-      },
-      {
-        "name": "50.icl",
-        "id": 50,
-        "url": "https://raw.githubusercontent.com/ma-theuscruz/WasherUpdate/main/display/50.icl",
-        "size": 351232
-      },
-      {
-        "name": "52.icl",
-        "id": 52,
-        "url": "https://raw.githubusercontent.com/ma-theuscruz/WasherUpdate/main/display/52.icl",
-        "size": 169984
-      },
-      {
-        "name": "53.icl",
-        "id": 53,
-        "url": "https://raw.githubusercontent.com/ma-theuscruz/WasherUpdate/main/display/53.icl",
-        "size": 476160
-      },
-      {
-        "name": "55.icl",
-        "id": 55,
-        "url": "https://raw.githubusercontent.com/ma-theuscruz/WasherUpdate/main/display/55.icl",
-        "size": 477184
-      },
-      {
-        "name": "57.icl",
-        "id": 57,
-        "url": "https://raw.githubusercontent.com/ma-theuscruz/WasherUpdate/main/display/57.icl",
-        "size": 111616
-      },
-      {
-        "name": "58.bin",
-        "id": 58,
-        "url": "https://raw.githubusercontent.com/ma-theuscruz/WasherUpdate/main/display/58.bin",
-        "size": 58368
-      },
-      {
-        "name": "59.bin",
-        "id": 59,
-        "url": "https://raw.githubusercontent.com/ma-theuscruz/WasherUpdate/main/display/59.bin",
-        "size": 116736
-      },
-      {
-        "name": "60.icl",
-        "id": 60,
-        "url": "https://raw.githubusercontent.com/ma-theuscruz/WasherUpdate/main/display/60.icl",
-        "size": 84992
-      },
-      {
-        "name": "61.bin",
-        "id": 61,
-        "url": "https://raw.githubusercontent.com/ma-theuscruz/WasherUpdate/main/display/61.bin",
-        "size": 254976
-      },
-      {
-        "name": "63.bin",
-        "id": 63,
-        "url": "https://raw.githubusercontent.com/ma-theuscruz/WasherUpdate/main/display/63.bin",
-        "size": 183296
-      }
+      }     
+      
     ]
   }
 }
