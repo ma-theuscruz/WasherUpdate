@@ -8,7 +8,7 @@
   "notes": [
     "Adicionado update display remoto",
     "Alterado sistema de versoes",
-    "Implementado tela de descanso",
+    "Implementado tela de descanso"
   ],
   "display": {
     "version": "0.1.5",
