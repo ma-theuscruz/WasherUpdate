@@ -14,6 +14,12 @@
     "version": "0.1.5",
     "files": [
       {
+        "name": "22_Config.bin",
+        "id": 22,
+        "url": "https://raw.githubusercontent.com/ma-theuscruz/WasherUpdate/main/display/22_Config.bin",
+        "size": 132096
+      },
+      {
         "name": "13TouchFile.bin",
         "id": 13,
         "url": "https://raw.githubusercontent.com/ma-theuscruz/WasherUpdate/main/display/13TouchFile.bin",
