@@ -1,9 +1,9 @@
 {
-  "system_version": "0.1.9",
-  "version": "0.1.9",
+  "system_version": "0.1.10",
+  "version": "0.1.10",
   "bin": "https://raw.githubusercontent.com/ma-theuscruz/WasherUpdate/main/firmware.bin",
-  "md5": "9213642fe28336726121f205fc2e3688",
-  "size_bytes": 1159456,
+  "md5": "2644219d12e37b4b158ece46f6641dd7",
+  "size_bytes": 1159504,
   "released_at": "2026-05-19",
   "notes": [
     "Adicionado token de pareamento",
