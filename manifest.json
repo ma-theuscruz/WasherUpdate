@@ -1,13 +1,13 @@
 {
-  "system_version": "0.1.10",
-  "version": "0.1.10",
+  "system_version": "0.1.11",
+  "version": "0.1.11",
   "bin": "https://raw.githubusercontent.com/ma-theuscruz/WasherUpdate/main/firmware.bin",
-  "md5": "2644219d12e37b4b158ece46f6641dd7",
-  "size_bytes": 1159504,
-  "released_at": "2026-05-19",
+  "md5": "fb2977621a373afc0c84d6a68bcd5a13",
+  "size_bytes": 1160016,
+  "released_at": "2026-06-24",
   "notes": [
     "Adicionado token de pareamento",
-    "Adicionada conexao remota",
+    "Adicionado Reconexao automatica wifi",
     "Atualizacoes de seguranca"
   ],
   "display": {
